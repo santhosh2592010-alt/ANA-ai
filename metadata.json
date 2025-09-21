@@ -1,0 +1,5 @@
+{
+  "name": "ANA.ai",
+  "description": "Generate new images of a character in different scenes while maintaining visual consistency. Upload one or more reference images, provide a text prompt, and let the AI bring your character to life in new scenarios.",
+  "requestFramePermissions": []
+}
